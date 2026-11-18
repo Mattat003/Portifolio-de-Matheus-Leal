@@ -15,6 +15,3 @@ Abra `index.html` no navegador, ou use a extensão Live Server do VS Code.
 2. Abra **Settings > Pages**.
 3. Em **Build and deployment**, escolha **Deploy from a branch**; depois **main** e **/(root)**, e salve.
 4. O endereço esperado é `https://mattat003.github.io/Portifolio-de-Matheus-Leal/` após o GitHub concluir a publicação.
-
-## Observação
-As descrições refletem projetos acadêmicos publicados. Para evoluir este portfólio, adicionar capturas reais dos projetos, demonstrações acessíveis e links de contato profissionais.
