@@ -1,6 +1,6 @@
 # Portfólio | Matheus Leal
 
-Portfólio pessoal criado com **HTML, CSS e JavaScript**, sem dependências de build.
+Portfólio pessoal criado com **HTML, CSS e JavaScript**.
 
 ## Projetos destacados
 - [SA-Cipher](https://github.com/Mattat003/SA-Cipher): projeto acadêmico de biblioteca digital de jogos.
